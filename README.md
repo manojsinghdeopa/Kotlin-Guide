@@ -1,4 +1,4 @@
-# Kotlin Guide APP
+# Kotlin Guide App
 
 This guide APP provides an overview of Kotlin, a modern programming language that is fully interoperable
 with Java and is officially supported for Android development. It covers the basics of Kotlin
